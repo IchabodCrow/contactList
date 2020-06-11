@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "name": "Tomas",
+      "surname": "Anderson",
+      "age": "20",
+      "number": "89876543210",
+      "id": 1
+    },
+    {
+      "name": "Justin",
+      "surname": "Timberlake",
+      "age": "30",
+      "number": "89876540000",
+      "id": 2
+    },
+    {
+      "name": "Captain Jack",
+      "surname": "Sparrow",
+      "age": "30",
+      "number": "89979651289",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "qwewq@www.qwe",
+      "password": "$2a$10$RbiSMDku.fAzJjiwhZtteu6zUEaELr8hHCdiv0JQRAmmps1hmGR5e",
+      "id": 1
+    },
+    {
+      "email": "kok@kok.ru",
+      "password": "$2a$10$80hRZHhaw9zLA6pabBKp6OZMkwZCEOR1I1TfDMI.bJdib/P9K6m6m",
+      "id": 2
+    }
+  ]
+}
